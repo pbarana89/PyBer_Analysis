@@ -13,11 +13,11 @@ The overview of this analysis was to help our company dissect how our ride share
 
 * Rural drivers saw the highest average totals while having the smallest ride totals with only 125 total rides from 78 drivers. This leads to possibly looking to see if we might be able to incentivize more drivers to use PyBer to increase our opportunities in this area. 
 
-![](https://github.com/pbarana89/PyBer_Analysis/blob/main/Resources/Total_Fare_By_City_Type.PNG)
+![](https://github.com/pbarana89/PyBer_Analysis/blob/main/Resources/Total_Fare_by_City_Type.png)
 
 * The information above shows fares for each city type on a weekly basis from January 2019 to April 2019. The datasets have some interesting points that might be worth investigating further. As you can see in more detail below, the Rural cities saw a huge surge the week of February 24th for $419 and on April 7th for $501. If we could find if there was any common item that led to this, it might allow us to increase traffic towards the application. Similarly the week of February 24th saw the highest points for both the Suburban and Urban datasets. 
 
 ![](https://github.com/pbarana89/PyBer_Analysis/blob/main/Resources/Weekly_Fare_By_City_Type.PNG)
 
-### PyBer Summary and Recommendations###
+### PyBer Summary and Recommendations
 The datasets have provided an exciting window into how we may be able to continue to enhance and utilize PyBer to grow our market in the rideshare area. The high average rates and low amount of drivers in rural areas points to an opportunity where if we can incentivize drivers to be available more in these areas we could have an opportunity to grow. I believe we will find on the week of February 24th there was most likely high traffic events that drew people to use PyBer, so if we can pinpoint the reasons we may be able to find opportunities to use PyBer with marketing teams in these cases. Finally, we already have an incredibly loyal base in urban areas as you can see they account for almost 40k worth of fares, if we could give back to those customers in terms of loyalty or referrals, we may be able to continue to further take advantage of these densely populated areas with new riders and drivers.
